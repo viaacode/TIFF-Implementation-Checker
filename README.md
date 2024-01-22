@@ -22,7 +22,13 @@ Available ISOs:
 
 If not installed, or the version is lower than 1.8 then Java 8 needs to be installed.
 
-### 2 Install with Maven
+
+### 2 Build TIFF-Library-4J
+
+You will need the newest version of this library, which is only available if you build and install it locally.
+The library can be found [here](https://github.com/viaacode/Tiff-Library-4J).
+
+### 3 Install with Maven
 
 Type
 
